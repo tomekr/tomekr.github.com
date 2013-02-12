@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rails Security - Sessions
+title: 'Rails Security #1: Sessions'
 category: posts
 ---
 
